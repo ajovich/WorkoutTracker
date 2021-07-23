@@ -33,11 +33,10 @@
     * express,
 
     * mongoose,
-    
+
     * morgan
     
-* Please ensure [node.js](https://nodejs.org/en/) is downloaded prior to use of application
-
+    
 ## Animation & Images
 
 * Animation TBD 
